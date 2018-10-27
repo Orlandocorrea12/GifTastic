@@ -1,0 +1,29 @@
+.btn-dark{
+    padding:5px;
+    margin: 5px;
+}
+h2{
+    margin-bottom: 20px;
+    padding: 25px;
+    text-align: center;
+    display: inline-block;
+    border: 3px red solid;
+}
+body{
+    background: url(../../thumb-1920-141972.jpg);
+    background-size: cover;
+    padding: 40px;
+}
+.container {
+    text-align: center;
+}
+#searchText{
+    text-align: center;
+}
+.border{
+    background-color: #ffffff;
+    
+}
+.noBorder{
+    border: 0px;
+}
